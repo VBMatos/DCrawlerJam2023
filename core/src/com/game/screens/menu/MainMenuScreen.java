@@ -19,7 +19,7 @@ public class MainMenuScreen implements Screen {
     private final DCrawlerJam game;
 
     //Fixed resolution
-    public static final int V_WIDTH = 1080;
+    public static final int V_WIDTH = 1280;
     public static final int V_HEIGHT = 720;
 
     private Stage stage;
